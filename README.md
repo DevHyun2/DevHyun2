@@ -43,3 +43,8 @@
 
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 
+## Project
+
+|Project Name|Tech Stack|Team|Period|Link|
+|:---:|:---:|:---:|:---:|:---:|
+|Class Up : <br>스터디 관리를 위한 출석 관리 시스템| FastAPI, MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2023/12/14 ~ 2024/01/16| [Repo](https://github.com/MinkyoJeong1/Class-Up)|
