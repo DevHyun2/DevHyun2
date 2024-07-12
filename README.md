@@ -51,10 +51,18 @@
 |친환경 리사이클링 쇼핑몰 새롬터| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: MySQL, API : TOAST UI EDITOR  | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Saerom-teo/server)|
 
 ## GitStats
-[![DevHyun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHyun2&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="s">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevHyun2&theme=tokyonight&show_icons=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHyun2&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="35%" />
+  </p>
+</a>
 <br>
+
 <p align="center">
+
+![](./profile-3d-contrib/profile-green.svg)
 
 </p>
 
