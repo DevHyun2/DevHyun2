@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:aaz11512@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=aaz11512@gmail.com"/></a>&nbsp
   <a href="https://dev-foundation.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0000  00?style=flat-square&logo=Tistory&logoColor=white&link=https://dev-foundation.tistory.com"/></a>&nbsp
+  <a href="https://www.instagram.com/daenim_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
@@ -54,7 +55,7 @@
 
 <br>
 <p align="center">
-<a href="https://www.instagram.com/daenim_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 </p>
 
 <div align="center">
