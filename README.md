@@ -47,4 +47,4 @@
 
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|Class Up : <br>친환경 리사이클링 쇼핑몰 새롬터| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: MySQL<br>API : TOAST UI EDITOR  | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Saerom-teo/server)|
+|Class Up : 친환경 리사이클링 쇼핑몰 새롬터| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: MySQL, API : TOAST UI EDITOR  | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Saerom-teo/server)|
