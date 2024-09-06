@@ -11,7 +11,7 @@
 </p>
 
 
-## Skills
+## 🖥️Skills
 
 **Programing Languages**
 
@@ -46,13 +46,13 @@
 
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 
-## Project
+## 📋Project
 
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |친환경 리사이클링 쇼핑몰 새롬터| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Saerom-teo/server)|
 
-## GitStats
+## 📊GitStats
 
 <a href="s">
   <p align="center">
