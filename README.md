@@ -51,7 +51,7 @@
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |친환경 리사이클링 쇼핑몰 새롬터| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Saerom-teo/server)|
-|음성기반 금융 복지 서비스 똑똑| Back : Java, Spring boot<br> Front : React PWA<br> DB: PostgreSQL | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/DevHyun2/knock-knock)|
+|음성기반 금융 복지 서비스 똑똑| Back : Java, Spring boot<br> Front : React PWA<br> DB: PostgreSQL | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/Knock-and-knock/backend)|
 
 ## 📊GitStats
 
